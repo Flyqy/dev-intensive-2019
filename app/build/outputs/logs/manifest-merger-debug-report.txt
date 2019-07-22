@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\308b65b5cc123f06cfe51dae963a2eb4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e2155ca65b68733fbd3ad0929f30e9e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\5e3da6d1afe5f144123fae5025805d2d\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ea4880f61a5560ea1586fb200f07f534\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\899642f5e6452381377b2572dfbd47de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9b660df7fe7eda1d179227546e4d58c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\20b8ba1c0784bd6720d999643ece07bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d4f0847995279611272b25f70775e6bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\62ea3f97e94ded0d1c5851fe723f96cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\36bf73735a4a24fd44dcee63b135a14e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\06d355304500208ce6e4e5eb6e96760c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\6cb1a50a0c165634dc74b181dd22edf4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d579d2e633f9cba5e51850c831752173\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\f114133e307cd1e9531dfcf4a2452292\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\8f4e3f347e8e3c7288213d2fa2d549cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\98dd95b4ec8df99586dd3bdd6fc581f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bc25692ad5e3549f081f8693b595fe5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\4a683ad02b71136a89f2b5c33a331b06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\02cda15a6a8a621992cd3bb12b0a0f39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\337823eae4caa58f58eb10a124c427a8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\030ea295268bf45d0070ec44fdf3c25e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bcada1db6a1c4151cbf75cb07a19841\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\209621c035c16eab36c0cc370d4a8ebe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\bf330bdf7f380133d4c485302a921eb3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ac457c8f57e3670c0bd9e14a09a6d18a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\fee2f41b4ee34b1dd3734d6c9155cfd8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\a29e6dad9b605cdadf25afe460f6f133\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9c508f4c09bf62aaef152ed1939b6f86\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\12c5d7c94eb91a4b4aa448458a739521\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\446ae742fc292c68bee9a6f3174c0102\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e8605dedbb52a6d9d44709fe66ea4cd0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\308b65b5cc123f06cfe51dae963a2eb4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\308b65b5cc123f06cfe51dae963a2eb4\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ea4880f61a5560ea1586fb200f07f534\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ea4880f61a5560ea1586fb200f07f534\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\337823eae4caa58f58eb10a124c427a8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\337823eae4caa58f58eb10a124c427a8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:11:13-44
+activity#ru.skillbranch.devintensive.MainActivity
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\308b65b5cc123f06cfe51dae963a2eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\308b65b5cc123f06cfe51dae963a2eb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e2155ca65b68733fbd3ad0929f30e9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e2155ca65b68733fbd3ad0929f30e9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\5e3da6d1afe5f144123fae5025805d2d\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\5e3da6d1afe5f144123fae5025805d2d\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ea4880f61a5560ea1586fb200f07f534\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ea4880f61a5560ea1586fb200f07f534\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\899642f5e6452381377b2572dfbd47de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\899642f5e6452381377b2572dfbd47de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9b660df7fe7eda1d179227546e4d58c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9b660df7fe7eda1d179227546e4d58c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\20b8ba1c0784bd6720d999643ece07bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\20b8ba1c0784bd6720d999643ece07bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d4f0847995279611272b25f70775e6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d4f0847995279611272b25f70775e6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\62ea3f97e94ded0d1c5851fe723f96cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\62ea3f97e94ded0d1c5851fe723f96cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\36bf73735a4a24fd44dcee63b135a14e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\36bf73735a4a24fd44dcee63b135a14e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\06d355304500208ce6e4e5eb6e96760c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\06d355304500208ce6e4e5eb6e96760c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\6cb1a50a0c165634dc74b181dd22edf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\6cb1a50a0c165634dc74b181dd22edf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d579d2e633f9cba5e51850c831752173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\d579d2e633f9cba5e51850c831752173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\f114133e307cd1e9531dfcf4a2452292\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\f114133e307cd1e9531dfcf4a2452292\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\8f4e3f347e8e3c7288213d2fa2d549cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\8f4e3f347e8e3c7288213d2fa2d549cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\98dd95b4ec8df99586dd3bdd6fc581f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\98dd95b4ec8df99586dd3bdd6fc581f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bc25692ad5e3549f081f8693b595fe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bc25692ad5e3549f081f8693b595fe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\4a683ad02b71136a89f2b5c33a331b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\4a683ad02b71136a89f2b5c33a331b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\02cda15a6a8a621992cd3bb12b0a0f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\02cda15a6a8a621992cd3bb12b0a0f39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e96a437311ffe1a107c65865c8e1f391\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\337823eae4caa58f58eb10a124c427a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\337823eae4caa58f58eb10a124c427a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\030ea295268bf45d0070ec44fdf3c25e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\030ea295268bf45d0070ec44fdf3c25e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bcada1db6a1c4151cbf75cb07a19841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9bcada1db6a1c4151cbf75cb07a19841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\209621c035c16eab36c0cc370d4a8ebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\209621c035c16eab36c0cc370d4a8ebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\bf330bdf7f380133d4c485302a921eb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\bf330bdf7f380133d4c485302a921eb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ac457c8f57e3670c0bd9e14a09a6d18a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\ac457c8f57e3670c0bd9e14a09a6d18a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\fee2f41b4ee34b1dd3734d6c9155cfd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\fee2f41b4ee34b1dd3734d6c9155cfd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\a29e6dad9b605cdadf25afe460f6f133\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\a29e6dad9b605cdadf25afe460f6f133\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9c508f4c09bf62aaef152ed1939b6f86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\9c508f4c09bf62aaef152ed1939b6f86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\12c5d7c94eb91a4b4aa448458a739521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\12c5d7c94eb91a4b4aa448458a739521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\446ae742fc292c68bee9a6f3174c0102\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\446ae742fc292c68bee9a6f3174c0102\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e8605dedbb52a6d9d44709fe66ea4cd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\liqfo\.gradle\caches\transforms-2\files-2.1\e8605dedbb52a6d9d44709fe66ea4cd0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\liqfo\Downloads\dev-intensive-2019-hometask_2\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
